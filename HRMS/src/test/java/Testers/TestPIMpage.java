@@ -10,7 +10,7 @@ public class TestPIMpage extends Page {
 	void addEmployee()
 	{
 		loginpage.open();	
-	}
+		System.out.println("nani");	}
 	
 	
 
