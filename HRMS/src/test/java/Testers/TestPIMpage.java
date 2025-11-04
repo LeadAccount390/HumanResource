@@ -10,7 +10,9 @@ public class TestPIMpage extends Page {
 	void addEmployee()
 	{
 		loginpage.open();	
-		System.out.println("nani");	}
+		System.out.println("nani");
+		System.out.println("kk sir");
+	}
 	
 	
 
